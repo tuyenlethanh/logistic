@@ -9,5 +9,8 @@ class LogisticApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+
+	void showDetails(){}
 
 }
